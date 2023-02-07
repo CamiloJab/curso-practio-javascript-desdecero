@@ -1,0 +1,2 @@
+# ignorando carpeta
+/curso-frontend-developer-javascriptpractico
