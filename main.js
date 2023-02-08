@@ -31,8 +31,9 @@ function toggleMobileMenu(){
     if(!isAsideClosed){
         shoppingCartContainer.classList.toggle('inactive');
     }
-    closeProductDetailAside();
 
+    closeProductDetailAside();
+    
     mobileMenu.classList.toggle('inactive');
 }
 
